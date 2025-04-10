@@ -1,8 +1,8 @@
 ﻿// Write a basic for statement
-// for (int i = 0; i < 10; i++)
-// {
-//     Console.WriteLine(i);
-// }
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}
 
 // ----------------------------------
 // Change the iteration conditions
@@ -39,6 +39,7 @@
 // }
 
 // ----------------------------------------------------------------
+// Examine the limitation of the foreach statement
 
 // string[] names = {"Alex", "Eddie", "David", "Michael"};
 // foreach (var name in names)
